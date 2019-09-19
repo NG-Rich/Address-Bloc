@@ -18,6 +18,9 @@
   "homepage": "https://github.com/NG-Rich/Address-Bloc#readme",
   "dependencies": {
     "inquirer": "^7.0.0",
-    "jasmine": "^3.4.0"
+    "jasmine": "^3.4.0",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.18.4"
   }
 }
